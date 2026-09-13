@@ -1,9 +1,0 @@
-title: My Name
-author: Me <me@example.com>
-href: index.html
-
-# Welcome
-
-Hello! This is my academic website. Inline math works: $E=mc^2$.
-
-$$\nabla\times\mathbf{E}=-\frac{\partial\mathbf{B}}{\partial t}.$$
